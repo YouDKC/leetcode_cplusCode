@@ -7,3 +7,5 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -std=c++0x")
 
 # 引入子目录
 ADD_SUBDIRECTORY(234_24games)
+ADD_SUBDIRECTORY(cout_test)
+
